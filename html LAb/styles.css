@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Caveat", handwriting;
+}
+
+h1 {
+    
+    color: rgb(226, 226, 23);
+    padding: 200px 10px 10px 10px;
+    margin: 200px 10px 10px 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+video { 
+    height: 500px;
+    display: block;
+    margin: auto
+}
+
+p {
+    color: yellow;
+    text-align: center;
+}
+
+button {
+    color: yellow;
+    display: block;
+    margin: auto;
+}
+
